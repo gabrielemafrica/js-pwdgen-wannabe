@@ -46,7 +46,9 @@ message =
     La PASSWORD INSICURA é
     <br>
     <br>
+    <u>
     ${userName}${userSurname}${color}21
+    </u>
     `;
 
 
